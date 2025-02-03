@@ -1,4 +1,4 @@
-telethon==1.29.0
+aiogram==2.13
 requests
 PyYAML
 bs4
