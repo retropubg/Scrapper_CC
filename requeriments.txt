@@ -1,4 +1,4 @@
-teleton
+telethon
 requests
 Crypto
 boto
