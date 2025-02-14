@@ -5,8 +5,8 @@ import os
 
 
 # Inserta aquí tus credenciales de API de Telegram
-api_id = 26453853 # Example : 11670008
-api_hash = '3708cc801cd1259c21f83c35b7141b31' # Example : 33a51w803x0f8e9e025b9ca515e1fa1f
+api_id = 16923186 # Example : 11670008
+api_hash = 'b6939f5a4d4caa1633a513a2adfd7d4d' # Example : 33a51w803x0f8e9e025b9ca515e1fa1f
 
 scarscapper = "@retroscrapper"
 vipscrapper = "@retroscrapper"
